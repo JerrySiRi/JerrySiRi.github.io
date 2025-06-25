@@ -12,6 +12,7 @@ Gemfile.lock
 node_modules
 package-lock.json
 
+
 # Ignore the vendor file and bundle for alternative installation
 vendor/
 .bundle/
