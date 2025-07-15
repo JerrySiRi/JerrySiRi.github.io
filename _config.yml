@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Rui Shi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "An AI Dreamer"
   location         : "Toronto, Canada"
   employer         : "University of Toronto"
   uri              : # URL
@@ -250,14 +250,15 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
+
   # _publications
   - scope:
       path: ""
@@ -267,6 +268,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
   # _portfolio
   - scope:
       path: ""
@@ -276,14 +278,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 
 # Sass/SCSS
