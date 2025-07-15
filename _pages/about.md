@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! 这里是石睿的个人主页，我喜欢在这里分享自己对AI（尤其是大语言模型）发展的思考，希望你能玩的开心！我目前是Kuaishou Technology的一名LLM Algorithm Research Intern，刚刚获得Nanjing University Bachelor of Engineering in Artificial Intelligence的学位，非常有幸在学校得到Prof. Cunjing Ge, Prof. Yizheng Zhao的指导！在本科期间，我有幸在Department of Biomedical Informatics & Data Science, School of Medicine at Yale Univeristy with Prof. Hua Xu, Shanghai AI Lab with Prof. Jei Fu的指导下作为研究实习生进行AI探索。
+Hi there! I’m Rui Shi, and welcome to my personal corner! I love sharing my thoughts on AI—especially large language models—so grab a cup of coffee and have fun exploring! I’m currently an LLM Algorithm Research Intern at Kuaishou Technology, fresh off earning my Bachelor of Engineering in Artificial Intelligence from Nanjing University under the guidance of Prof. [Cunjing Ge](https://gecunjing.github.io) and Prof. [Yizheng Zhao](https://ai.nju.edu.cn/zhaoyizheng/).
 
-我的研究兴趣聚焦于自然语言处理与强化学习。特别的，我还对diffusion LLM，知识表示与处理非常感兴趣，希望这些非autoregressive的方法可以真正拥有通向AGI的潜力！
+During my undergrad, I was lucky enough to dive into AI research as an intern at Yale University’s Department of Biomedical Informatics & Data Science with Prof. [Hua Xu](https://medicine.yale.edu/profile/hua-xu/), and at Shanghai AI Lab with Prof. [Jie Fu](https://bigaidream.github.io).
 
-[comment]: # "[this template](https://github.com/academicpages/academicpages.github.io)"
+My research passions center on Natural Language Processing and Reinforcement Learning. I’m particularly fascinated by Diffusion LLMs and Knowledge Representation & Processing, and I firmly believe these alternative non‑autoregressive approaches hold real promise on the road to AGI!
+
 
 # A data-driven personal website
 
