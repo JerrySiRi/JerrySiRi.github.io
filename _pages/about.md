@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I’m Rui Shi, and welcome to my personal corner ヾ(๑╹◡╹)ﾉ"! I love sharing my thoughts on AI—especially large language models—so grab a cup of coffee and have fun exploring! I’m currently an LLM Algorithm Research Intern @Kuaishou Technology, fresh off earning my Bachelor of Engineering in Artificial Intelligence from Nanjing University under the guidance of Prof. [Cunjing Ge](https://gecunjing.github.io) and Prof. [Yizheng Zhao](https://ai.nju.edu.cn/zhaoyizheng/).
+Hi there! This is Rui Shi, and welcome to my personal corner ヾ(๑╹◡╹)ﾉ"! I love sharing my thoughts on AI—especially large language models—so grab a cup of coffee and have fun exploring! I’m currently an LLM Algorithm Research Intern @Kuaishou Technology, fresh off earning my Bachelor of Engineering in Artificial Intelligence from Nanjing University under the guidance of Prof. [Cunjing Ge](https://gecunjing.github.io) and Prof. [Yizheng Zhao](https://ai.nju.edu.cn/zhaoyizheng/).
 
 During my undergrad, I was lucky enough to dive into AI research as an research intern @Yale University, Department of Biomedical Informatics & Data Science with Prof. [Hua Xu](https://medicine.yale.edu/profile/hua-xu/), and @Shanghai AI Lab with Prof. [Jie Fu](https://bigaidream.github.io).
 
