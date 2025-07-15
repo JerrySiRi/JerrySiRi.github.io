@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Rui Shi",
+    "email": "jerrysiri.shi@mail.utoronto.ca",
     "phone": "",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
@@ -33,11 +33,11 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Nanjing University",
+      "area": "BEn.g. in Artificial Intelligence",
+      "studyType": "Undergraduate",
+      "startDate": "2021",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
