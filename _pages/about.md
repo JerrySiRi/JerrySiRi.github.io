@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there!
+Hi there! 这里是石睿的个人主页，我喜欢在这里分享自己对AI（尤其是大语言模型）发展的思考，希望你能玩的开心！我目前是Kuaishou Technology的一名LLM Algorithm Research Intern，刚刚获得Nanjing University Bachelor of Engineering in Artificial Intelligence的学位，非常有幸在学校得到Prof. Cunjing Ge, Prof. Yizheng Zhao的指导！在本科期间，我有幸在Department of Biomedical Informatics & Data Science, School of Medicine at Yale Univeristy with Prof. Hua Xu, Shanghai AI Lab with Prof. Jei Fu的指导下作为研究实习生进行AI探索。
+
+我的研究兴趣聚焦于自然语言处理与强化学习。特别的，我还对diffusion LLM，知识表示与处理非常感兴趣，希望这些非autoregressive的方法可以真正拥有通向AGI的潜力！
 
 [comment]: # "[this template](https://github.com/academicpages/academicpages.github.io)"
 
