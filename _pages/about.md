@@ -11,7 +11,7 @@ Hi there! This is Rui Shi, and welcome to my personal corner ヾ(๑╹◡╹)�
 
 During my undergrad, I was lucky enough to dive into AI research as an research intern @Yale University, Department of Biomedical Informatics & Data Science with Prof. [Hua Xu](https://medicine.yale.edu/profile/hua-xu/), and @Shanghai AI Lab with Prof. [Jie Fu](https://bigaidream.github.io).
 
-My research passions center on **Natural Language Processing** and **Deep Reinforcement Learning**, especially on RLVR (Reinforcement Learning with Verifiable Rewards). I’m particularly fascinated by **Diffusion LLMs** and **Neuro-Symbolic Learning and Reasoning**, and I firmly believe these alternative non‑autoregressive approaches hold real promise on the road to AGI!
+My research passions center on **Safe Guaranteed AI**, especially through *Natural Language Processing* and *Deep Reinforcement Learning* techniques. I’m particularly fascinated by *Diffusion LLMs* and *Neuro-Symbolic Learning and Reasoning*, and I firmly believe these alternative non‑autoregressive approaches hold real promise on the road to AGI!
 
 
 # Recent News
