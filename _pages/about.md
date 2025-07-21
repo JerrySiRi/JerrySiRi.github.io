@@ -25,28 +25,7 @@ My research passions center on **Safe Guaranteed AI**, especially through  *Natu
 7. [2024.7.5] Arrived at Yale ☺️! About to start my research internship in the Clinical NLP Lab with Dr. Hua Xu, focusing on foundational medical LLMs, Named Entity Recognition, and long‑context EHR.
 
 
-# Experiences
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-6. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+To be continued...
 ------
 
-
-Create content & metadata
-------
-
-
-
-How to edit your site's GitHub repository
-------
-
-
-For more info
-------
 
