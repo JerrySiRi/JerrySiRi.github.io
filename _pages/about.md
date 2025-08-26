@@ -15,7 +15,7 @@ My research passions center on **Safe Guaranteed AI**, especially through  *Natu
 
 
 # Recent News 
-1. [2025.8.12] I will be working with Prof. [Ning Miao](https://www.ningmiao.space) as a research assistant at City University of Hong Kong on October 2, working on LLM reasoning and next-generation LLM frameworks! (Since my visa was held up in security screening, I had to take a gap year.) Excite to contribute more truly valuable and solid work ❤️!
+1. [2025.8.12] I will be working with Prof. [Ning Miao](https://www.ningmiao.space) as a research assistant at City University of Hong Kong on October 2, working on *LLM reasoning with reinforcement learning* and *next-generation LLM frameworks*! (Since my visa was held up in security screening, I had to take a gap year.) Excite to contribute more truly valuable and solid work ❤️!
 2. [2025.7.11] We launched our new Prover model - Lenabell‑Prover‑V2, and released our paper ["Leanabell-Prover-V2: Verifier-integrated Reasoning for Formal Theorem Proving via Reinforcement Learning"](https://arxiv.org/abs/2507.08649) on ArXiv. 
 3. [2025.6.30] I graduated from Nanjing University🎉! Huge thanks to all the friends and professors I’ve met over the past four years — wishing everyone all the best in the future🥰!
 4. [2025.5.6]  I joined Kuaishou Technology as an LLM Algorithm Research Intern. My work focuses on auto‑formalization and deep reinforcement learning (LLM post‑training).
