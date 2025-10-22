@@ -1,11 +1,9 @@
 ---
-title: 'Future Blog Post'
-date: 2025-07-31
+title: 'My Daily ArXiv Reading'
+date: 2025-10-20
 permalink: /posts/2025/07/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Application
 ---
 
-To be done
+Please see [Daily arXiv Reading](https://jerrysiri.github.io/arXiv-agent/) for more details.
