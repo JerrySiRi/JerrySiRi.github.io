@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! This is Rui Shi, and welcome to my personal corner ヾ(๑╹◡╹)ﾉ"! I love sharing my thoughts on AI—especially large language models—so grab a cup of coffee and have fun exploring! I’m currently an LLM Algorithm Research Intern @Kuaishou Technology, fresh off earning my Bachelor of Engineering in Artificial Intelligence from Nanjing University under the guidance of Prof. [Cunjing Ge](https://gecunjing.github.io) and Prof. [Yizheng Zhao](https://ai.nju.edu.cn/zhaoyizheng/).
+Hi there! This is Rui Shi, and welcome to my personal corner ヾ(๑╹◡╹)ﾉ"! I’m currently an LLM Algorithm Research Intern @Kuaishou Technology, fresh off earning my Bachelor of Engineering in Artificial Intelligence from Nanjing University under the guidance of Prof. [Cunjing Ge](https://gecunjing.github.io) and Prof. [Yizheng Zhao](https://ai.nju.edu.cn/zhaoyizheng/).
 
 During my undergrad, I was lucky enough to dive into AI research as an research intern @Yale University, Department of Biomedical Informatics & Data Science with Prof. [Hua Xu](https://medicine.yale.edu/profile/hua-xu/), and @Shanghai AI Lab , Veri-code Team, with Prof. [Jie Fu](https://bigaidream.github.io).
 
-My research passions center on **Safe Guaranteed AI**, especially through  *Natural Language Processing* and *Deep Reinforcement Learning* techniques. I’m also fascinated by *Diffusion LLMs* and *Neuro-Symbolic Learning and Reasoning*, and I firmly believe these alternative non‑autoregressive approaches hold real promise on the road to AGI!
+I’m passionate about **Self-Evolving Agents**, especially the *open-ended aspects of intelligence* and the **Safe-Guaranteed AI problems** that arise when creating ever-more capable systems. I also keep a close eye on non-autoregressive approaches like *Diffusion LLMs* and *Neuro-Symbolic Learning and Reasoning*, which I see as promising alternatives to today’s autoregressive LLMs～
+
+If you share interests in these directions—or other pathways toward AGI / ASI — I would be genuinely excited to connect, discuss ideas, and explore potential collaborations (๑¯∀¯๑)!
 
 
 # Recent News 
