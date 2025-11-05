@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! I’m currently an LLM Algorithm Research Intern @Kuaishou Technology, fresh off earning my Bachelor of Engineering in Artificial Intelligence from Nanjing University under the guidance of Prof. [Cunjing Ge](https://gecunjing.github.io) and Prof. [Yizheng Zhao](https://ai.nju.edu.cn/zhaoyizheng/).
 
-During my undergrad, I was lucky enough to dive into AI research as an research intern @Yale University, Department of Biomedical Informatics & Data Science with Prof. [Hua Xu](https://medicine.yale.edu/profile/hua-xu/), and @Shanghai AI Lab , Veri-code Team, with Prof. [Jie Fu](https://bigaidream.github.io).
+During my undergrad, I was lucky enough to dive into AI research as an research intern Clinical NLP Lab, @Yale University with Prof. [Hua Xu](https://medicine.yale.edu/profile/hua-xu/), and Veri-code Team @Shanghai AI Lab, with Prof. [Jie Fu](https://bigaidream.github.io).
 
 I’m passionate about **Open-endness AI**, especially through *Self-Evolving Agents*. I believe it's an essential property of any ASI system. I also keep a close eye on non-autoregressive approaches like *Diffusion LLMs* and *Neuro-Symbolic Learning and Reasoning*.
 
