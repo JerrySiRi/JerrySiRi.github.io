@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "SHI Rui's academic homepage"
 author_profile: true
 redirect_from: 
   - /about/
